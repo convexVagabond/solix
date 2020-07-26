@@ -4,6 +4,5 @@
 
 void kernel_main(void) {
 	terminal_initialize();
-	printf("Hello, kernel World!\n");
-	printf("Newline test!\n");
+	printf("Welcome to Solix OS\n");
 }
